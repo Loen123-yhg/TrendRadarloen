@@ -47,6 +47,8 @@ weight:
   hotness_weight: 0.1 # 热度权重
 
 platforms:
-- id: "douyin"
-  name: "抖音"
-
+  enabled: true
+  sources:
+    - id: "douyin"
+      name: "抖音"
+      expected_domain: "douyin.com"
