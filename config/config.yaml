@@ -48,7 +48,14 @@ weight:
 
 platforms:
   enabled: true
+  api_url: ""
   sources:
+    - id: "toutiao"
+      name: "今日头条"
+      expected_domain: "toutiao.com"
+    - id: "baidu"
+      name: "百度热搜"
+      expected_domain: "baidu.com"
     - id: "douyin"
       name: "抖音"
       expected_domain: "douyin.com"
