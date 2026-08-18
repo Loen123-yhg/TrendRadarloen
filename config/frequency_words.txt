@@ -3,4 +3,4 @@ AI
 ChatGPT
 DeepSeek
 豆包
-vibdecoding
+vibecoding
